@@ -9,19 +9,35 @@
 /* Begin PBXBuildFile section */
 		35BBAE111D8DA54200157046 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35BBAE101D8DA54200157046 /* AppDelegate.swift */; };
 		35BBAE131D8DA54200157046 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35BBAE121D8DA54200157046 /* ViewController.swift */; };
-		35BBAE161D8DA54200157046 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE141D8DA54200157046 /* Main.storyboard */; };
 		35BBAE181D8DA54200157046 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE171D8DA54200157046 /* Assets.xcassets */; };
 		35BBAE1B1D8DA54200157046 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE191D8DA54200157046 /* LaunchScreen.storyboard */; };
+		35BBAE231D8DA57400157046 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE221D8DA57400157046 /* Main.storyboard */; };
+		35BBAE271D8DA58D00157046 /* Assets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35BBAE241D8DA58D00157046 /* Assets.swift */; };
+		35BBAE281D8DA58D00157046 /* CardStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35BBAE251D8DA58D00157046 /* CardStack.swift */; };
+		35BBAE291D8DA58D00157046 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35BBAE261D8DA58D00157046 /* CardView.swift */; };
+		35BBAE2F1D8DA6D900157046 /* person0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE2A1D8DA6D900157046 /* person0.jpg */; };
+		35BBAE301D8DA6D900157046 /* person1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE2B1D8DA6D900157046 /* person1.jpg */; };
+		35BBAE311D8DA6D900157046 /* person2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE2C1D8DA6D900157046 /* person2.jpg */; };
+		35BBAE321D8DA6D900157046 /* person3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE2D1D8DA6D900157046 /* person3.jpg */; };
+		35BBAE331D8DA6D900157046 /* person4.png in Resources */ = {isa = PBXBuildFile; fileRef = 35BBAE2E1D8DA6D900157046 /* person4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		35BBAE0D1D8DA54200157046 /* Torchy-Swipe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Torchy-Swipe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35BBAE101D8DA54200157046 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35BBAE121D8DA54200157046 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		35BBAE151D8DA54200157046 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		35BBAE171D8DA54200157046 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35BBAE1A1D8DA54200157046 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35BBAE1C1D8DA54200157046 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35BBAE221D8DA57400157046 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		35BBAE241D8DA58D00157046 /* Assets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Assets.swift; sourceTree = "<group>"; };
+		35BBAE251D8DA58D00157046 /* CardStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardStack.swift; sourceTree = "<group>"; };
+		35BBAE261D8DA58D00157046 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		35BBAE2A1D8DA6D900157046 /* person0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = person0.jpg; sourceTree = "<group>"; };
+		35BBAE2B1D8DA6D900157046 /* person1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = person1.jpg; sourceTree = "<group>"; };
+		35BBAE2C1D8DA6D900157046 /* person2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = person2.jpg; sourceTree = "<group>"; };
+		35BBAE2D1D8DA6D900157046 /* person3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = person3.jpg; sourceTree = "<group>"; };
+		35BBAE2E1D8DA6D900157046 /* person4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +72,28 @@
 			children = (
 				35BBAE101D8DA54200157046 /* AppDelegate.swift */,
 				35BBAE121D8DA54200157046 /* ViewController.swift */,
-				35BBAE141D8DA54200157046 /* Main.storyboard */,
+				35BBAE241D8DA58D00157046 /* Assets.swift */,
+				35BBAE251D8DA58D00157046 /* CardStack.swift */,
+				35BBAE261D8DA58D00157046 /* CardView.swift */,
+				35BBAE221D8DA57400157046 /* Main.storyboard */,
 				35BBAE171D8DA54200157046 /* Assets.xcassets */,
+				35BBAE341D8DA6F100157046 /* images */,
 				35BBAE191D8DA54200157046 /* LaunchScreen.storyboard */,
 				35BBAE1C1D8DA54200157046 /* Info.plist */,
 			);
 			path = "Torchy-Swipe";
+			sourceTree = "<group>";
+		};
+		35BBAE341D8DA6F100157046 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				35BBAE2A1D8DA6D900157046 /* person0.jpg */,
+				35BBAE2B1D8DA6D900157046 /* person1.jpg */,
+				35BBAE2C1D8DA6D900157046 /* person2.jpg */,
+				35BBAE2D1D8DA6D900157046 /* person3.jpg */,
+				35BBAE2E1D8DA6D900157046 /* person4.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +128,8 @@
 				TargetAttributes = {
 					35BBAE0C1D8DA54200157046 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = L3G9LCNM63;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,9 +157,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35BBAE231D8DA57400157046 /* Main.storyboard in Resources */,
+				35BBAE331D8DA6D900157046 /* person4.png in Resources */,
+				35BBAE321D8DA6D900157046 /* person3.jpg in Resources */,
+				35BBAE301D8DA6D900157046 /* person1.jpg in Resources */,
+				35BBAE2F1D8DA6D900157046 /* person0.jpg in Resources */,
+				35BBAE311D8DA6D900157046 /* person2.jpg in Resources */,
 				35BBAE1B1D8DA54200157046 /* LaunchScreen.storyboard in Resources */,
 				35BBAE181D8DA54200157046 /* Assets.xcassets in Resources */,
-				35BBAE161D8DA54200157046 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,20 +177,15 @@
 			files = (
 				35BBAE131D8DA54200157046 /* ViewController.swift in Sources */,
 				35BBAE111D8DA54200157046 /* AppDelegate.swift in Sources */,
+				35BBAE281D8DA58D00157046 /* CardStack.swift in Sources */,
+				35BBAE271D8DA58D00157046 /* Assets.swift in Sources */,
+				35BBAE291D8DA58D00157046 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		35BBAE141D8DA54200157046 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				35BBAE151D8DA54200157046 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		35BBAE191D8DA54200157046 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -258,6 +292,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L3G9LCNM63;
 				INFOPLIST_FILE = "Torchy-Swipe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.torchy-swipe.Torchy-Swipe";
@@ -270,6 +305,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L3G9LCNM63;
 				INFOPLIST_FILE = "Torchy-Swipe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.torchy-swipe.Torchy-Swipe";
@@ -297,6 +333,7 @@
 				35BBAE211D8DA54200157046 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
